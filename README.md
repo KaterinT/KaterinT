@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaterinTello](https://github.com/KaterinTello)
 
-- 📫 How to reach me **u.kate7@gmail.com**
+- 📫 How to reach me **tellourakaterin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
