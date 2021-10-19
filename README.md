@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS,HTML y CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaterinTello](https://github.com/KaterinT)
+- 👨‍💻 All of my projects are available at [https://github.com/KaterinT](https://github.com/KaterinT)
 
 - 📫 How to reach me **tellourakaterin@gmail.com**
 
