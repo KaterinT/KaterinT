@@ -16,5 +16,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/katerintll"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/katerintll" /></a></p><br><br><br><br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![snake gif](https://github.com/katerinT/katerinT/blob/output/github-contribution-grid-snake.svg)
