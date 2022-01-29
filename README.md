@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Katerin Tello</h1>
 <h3 align="center">Self taught, technology enthusiast, passionate with learning new subjects.</h3>
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning new frameworks**React** -->
+- 🌱 I’m currently learning new frameworks
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaterinT](https://github.com/KaterinT)
 
