@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katerin Tello</h1>
 <h3 align="center">Self taught, technology enthusiast, passionate with learning new subjects.</h3>
 
+
+<div align="center">
+  <img src="./backgroundK.png" width="800">
+</div>
+
 <!-- - 🌱 I’m currently learning new frameworks**React** -->
 - 🌱 I’m currently learning new frameworks
 
