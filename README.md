@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="./backgroundK2.png" width="800">
+  <img src="./backgroundK3.png" width="800">
 </div>
 
 <!-- - 🌱 I’m currently learning new frameworks**React** -->
