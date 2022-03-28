@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katerin Tello</h1>
-<h3 align="center">Self taught, technology enthusiast, passionate with learning new subjects.</h3>
 
+<h3 align="center">Self taught, technology enthusiast, passionate with learning new subjects.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="./background4.png" width="800">
