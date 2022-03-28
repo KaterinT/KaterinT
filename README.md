@@ -12,8 +12,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/KaterinT](https://github.com/KaterinT)
 
 - 📫 How to reach me **tellourakaterin@gmail.com**
+<!-- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=katerinT&left_color=green&right_color=red) -->
+![](https://komarev.com/ghpvc/?username=KaterinT&color=yellowgreen)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=katerinT&left_color=green&right_color=red)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
