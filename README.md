@@ -13,7 +13,7 @@
 </div>
 
 <!-- - 🌱 I’m currently learning new frameworks**React** -->
-- 🌱 I’m in constant learning 
+- 🌱 I’m in constant learning   
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaterinT](https://github.com/KaterinT)
 
