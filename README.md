@@ -9,7 +9,7 @@
 <h3 align="center">Self taught, technology enthusiast, passionate with learning new subjects.</h3>
 
 <div align="center">
-  <img src="./background4.png" width="800">
+  <img src="./backgroundK5.png" width="800">
 </div>
 
 <!-- - 🌱 I’m currently learning new frameworks**React** -->
